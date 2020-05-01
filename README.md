@@ -1,4 +1,4 @@
-# GoStack fundamentos NodeJS - Execício
+# GoStack Fundamentos NodeJS - Exercício
 
 <img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
 
@@ -205,11 +205,11 @@ Listar todas as transações (income | outcome), valor total para entrada e saí
 ## Como Rodar a aplicação
 - Acesse uma pasta a sua escolha em seu computador usando o terminal
 - Digite o seguinte comando:
-```bash
+```zsh
 git clone https://github.com/andrelinos/gostack-fundamentos-nodejs.git
 ```
 - Em seguida acesse a pasta com o comando: `cd gostack-fundamentos-nodejs`.
 - Dentro da pasta digite `yarn` para instalar as dependências.
-- Após bora codar!
+- Após, bora codar!
 
 ##
