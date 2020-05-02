@@ -28,7 +28,8 @@
 Este projeto foi desenvolvido com base no template *gostack-template-fundamentos-node-desafio* feito pela a @rocketseat para o desafio do bootcamp *Desafio: Fundamentos Node.js*.
 
 ## Models
-**uuid**:  O uuidv4 é uma ferramenta usada para a geração de ID automático para aplicações NodeJS e ReactJS.
+**[uuid](https://github.com/uuidjs/uuid)**:  O uuidv4 é uma ferramenta usada para a geração de ID automático para aplicações NodeJS e ReactJS.
+
 ```js
   import { uuid } from 'uuidv4';
 ```
@@ -132,6 +133,9 @@ Domingo
 **Fonte**: [medium](https://medium.com/typescript/typescript-enums-1f5cc877aaa3)
 
 ## Transaction.routes
+
+[express](https://github.com/expressjs/express)
+
 Nesta parte você define as rotas para realizar *POST*, *GET*, *PUT*, *DELETE*
 **Exemplo**:
 ```js
